@@ -1,0 +1,1 @@
+- [TanStack Start publishing](tanstack-start-publishing.md) — publish as a Bun SSR server on autoscale, not as a static directory.
